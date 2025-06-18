@@ -1,4 +1,4 @@
-package models;
+package domain.model;
 
 public class ItemCarritoCompra {
     static private int idItemCompra=0;

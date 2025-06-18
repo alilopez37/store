@@ -1,4 +1,4 @@
-package models;
+package domain.model;
 
 public class Tienda {
     private int idTienda;
